@@ -31,7 +31,6 @@
 </details>
 
 <details>
-  
   <summary><b>📈 GitHub Stats </b></summary>
   <br />
   
@@ -44,6 +43,7 @@
   <br />
   <ul>
     <li><strong>E-mail: </strong><code>krzysiekwronapl@wp.pl</code></li>
+    <li><strong>LinkedIn: </strong><a href="https://www.linkedin.com/in/krzysztof-wrona-4569771a7/"> Krzysztof Wrona</a></li>
   </ul>
 </details>
 <!--
