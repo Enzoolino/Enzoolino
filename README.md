@@ -6,29 +6,37 @@
 ---
 
 <details>
-<summary><b> Knowledge Summary</b></summary>
+<summary><b>📖 Knowledge Summary</b></summary>
   
 ### 🔭 Currently coding in:
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-darkblue?style=for-the-badge&logo=lua&logoColor=white)
+![XAML](https://img.shields.io/badge/Xaml-%230072C6?style=for-the-badge&logo=xaml&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ### 🌱 Currently learning:
 
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C++-yellow?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131?style=for-the-badge&logo=unreal%20engine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-%23000000?style=for-the-badge&logo=unity&logoColor=white)
 
-### Tools:
+### 🔧 Tools:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Krita](https://img.shields.io/badge/Krita-%23E85D04?style=for-the-badge&logo=krita&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-%23F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-violet?style=for-the-badge&logo=photoshop&logoColor=white)
+
 </details>
 
 <details>
+  
   <summary><b>📈 GitHub Stats </b></summary>
-  <br /> 
-  <img alt="Enzoolino's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Enzoolino&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <br />
+  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Enzoolino&show_icons=true&theme=transparent)
+  
 </details>
 
 <details>
