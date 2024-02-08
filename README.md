@@ -15,9 +15,6 @@
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ### 🌱 Currently learning:
-
-![C++](https://img.shields.io/badge/C++-yellow?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131?style=for-the-badge&logo=unreal%20engine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-%23000000?style=for-the-badge&logo=unity&logoColor=white)
 
 ### 🔧 Tools:
@@ -30,6 +27,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
 
 
 </details>
@@ -49,6 +47,18 @@
     <li><strong>E-mail: </strong><code>krzysiekwronapl@wp.pl</code></li>
     <li><strong>LinkedIn: </strong><a href="https://www.linkedin.com/in/krzysztof-wrona-4569771a7/"> Krzysztof Wrona</a></li>
   </ul>
+</details>
+
+<details>
+<summary><b>🎮 I'm also a gamer</b></summary>
+  <br />
+  
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)<br/>
+Nickname: Enzoo | Nulled <br/>
+Code: 164453584
+
+
+
 </details>
 <!--
 
