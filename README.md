@@ -54,8 +54,8 @@
   <br />
   
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)<br/>
-Nickname: Enzoo | Nulled <br/>
-Code: 164453584
+<strong>Nickname: </strong>Enzoo | Nulled <br/>
+<strong>Code: </strong>164453584
 
 
 
