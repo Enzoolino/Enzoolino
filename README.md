@@ -56,9 +56,14 @@
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)<br/>
 <strong>Nickname: </strong>Enzoo | Nulled <br/>
 <strong>Code: </strong>164453584
+</details>
 
+<details>
+  <summary><b>🗃️ Collective Portfolio</b></summary>
+  <br />
 
-
+  ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)<br/>
+  
 </details>
 <!--
 
