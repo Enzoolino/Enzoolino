@@ -62,7 +62,7 @@
   <summary><b>🗃️ Collective Portfolio</b></summary>
   <br />
 
-  ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)<br/>
+  <a href="https://enzoolino.itch.io/">![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)</a><br/>
   
 </details>
 <!--
